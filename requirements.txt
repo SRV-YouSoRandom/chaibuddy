@@ -1,0 +1,6 @@
+flask
+requests
+psycopg2-binary
+redis
+apscheduler
+python-dotenv

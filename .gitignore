@@ -1,0 +1,8 @@
+# Env
+.env
+
+# Venv
+venv/
+
+# Text files
+.important.txt
